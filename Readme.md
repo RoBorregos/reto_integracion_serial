@@ -8,7 +8,6 @@ catkin_make
 ```
 Instala los requerimientos
 ```bash
-cd reto_integracion_serial/src
 pip install -r requirements.txt
 ```
 
